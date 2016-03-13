@@ -13,13 +13,13 @@ _ =
     --your id
   }
   plugs: {
-    "9gag"
+    --"9gag"
     "admin"
     "anime"
     "calculator"
-    "cat"
+    --"cat"
     "chatter"
-    --"code"
+    "code"
     "dogify"
     "echo"
     "giphy"
@@ -40,7 +40,7 @@ _ =
     "stats"
     "sticker"
     "talk"
-    --"telegramCli"
+    "telegramCli"
     "time"
     "translate"
     "urbandictionary"
@@ -48,6 +48,6 @@ _ =
     "webshot"
     "who"
     "wikipedia"
-    --"youtube"
+    "youtube"
   }
 return _
