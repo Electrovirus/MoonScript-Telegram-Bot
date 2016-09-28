@@ -1,8 +1,7 @@
-#Jack
+#Moonscript telegram bot
 
 Multi purpose telegram bot written in MoonScript/lua and licenced under the GNU General Public License.
 
-[Public bot](https://telegram.me/imandabot)
 
 Table of Contents
 
@@ -29,8 +28,8 @@ Clone the bot
 
 ```bash
 cd $HOME
-git clone https://github.com/Imandaneshi/jack-telegram-bot.git
-cd jack-telegram-bot
+git clone https://github.com/electrovirus/MoonScript-Telegram-Bot.git
+cd MoonScript-Telegram-Bot
 ```
 Set telegram_api_key in config.moon file to the token you received from the Botfather.
 
@@ -101,8 +100,7 @@ sudo luarocks install serpent
 
 
 #Database
-
-Jack is using redis as database
+bot is using redis as database
 We use perfix/folder `bot`
 
 Here are the datas
@@ -636,38 +634,4 @@ Listed | Requires API KEY | Enabled by default | inline
 
 
 
-#Support and development
-
-Join our bot development group by sending /join 1047524697 to @TeleSeed or just search username [@seed_dev](https://telegram.me/seed_dev) and join
-
-# Special thanks to
-
-[Alphonse](https://github.com/hmon)
-
-[Vamptacus](https://telegram.me/Vamptacus)
-
-[topkecleon](https://github.com/topkecleon)
-
-[Yago](https://github.com/yagop)
-
-
-
-# Collaborators
-
-[Unfriendly](https://github.com/pAyDaAr)
-
-[Tiago Danin](https://github.com/TiagoDanin)
-
-# Other projects
-
-[TeleSeed](https://github.com/SEEDTEAM/TeleSeed)
-
->An advance Administration bot
-
-[TelegramLoggingBot](https://github.com/SEEDTEAM/TelegramLoggingBot)
-
->Connects 2 groups or can be used to create a logging group
-
-[file-manager-bot](https://github.com/SEEDTEAM/file-manager-bot)
-
->A Linux file manager telegram bot
+#This source is just edited by Electrovirus
