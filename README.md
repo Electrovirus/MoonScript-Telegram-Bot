@@ -9,10 +9,6 @@ Table of Contents
 * [Telegram Cli](#telegram-cli)
 * [Database](#database)
 * [Plugins](#plugins)
-* [Support and development](#support-and-development)
-* [Special thanks to](#special-thanks-to)
-* [Collaborators](#collaborators)
-* [Other projects](#other-projects)
 
 #Setup
 
